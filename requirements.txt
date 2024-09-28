@@ -1,0 +1,11 @@
+accelerate
+diffusers
+ftfy
+langflow
+huggingface-hub
+Pillow
+scipy
+torch
+torchvision
+torchaudio
+transformers
